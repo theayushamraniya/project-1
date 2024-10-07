@@ -20,6 +20,8 @@ int main()
         int choice;
         printf("1. Withdrawal\n");
         printf("2. Deposit\n");
+        printf("3. change pin \n");
+
         printf("Enter your choice: ");
         scanf("%d", &choice);
 
@@ -51,6 +53,24 @@ int main()
                printf("~~~~~~~~~~ AMOUNT DEPOSITED SUCCESSFULLY ~~~~~~~\n");
                 break;
             }
+            case 3:
+    int newpin, confirmpin;
+
+    printf("Enter your old PIN: ");
+    scanf("%d", &pin);
+
+    printf("Enter your new PIN: ");
+    scanf("%d", &newpin);
+
+    printf("Confirm your new PIN: ");
+    scanf("%d", &confirmpin);
+
+    if (newpin == confirmpin) {
+        pin = newpin;
+        printf("PIN changed successfully!\n");
+    } else {
+        printf("PIN change failed. New PIN and confirmed PIN do not match.\n");
+    }
          }
     }
     else 
@@ -59,5 +79,4 @@ int main()
  
     
 }
-
 
