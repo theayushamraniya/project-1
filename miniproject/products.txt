@@ -1,0 +1,21 @@
+1,Apple iPhone 16,999.99
+2,Samsung Galaxy S21,849.99
+3,Google Pixel 6,599.99
+4,OnePlus 9,729.99
+5,Sony WH-1000XM4 Headphones,349.99
+6,Apple MacBook Air,999.99
+7,Dell XPS 13,1299.99
+8,HP Spectre x360,1399.99
+8.8,silicon doll ,999.99
+9,Canon EOS R5 Camera,3899.99
+10,Nintendo Switch,299.99
+11,Samsung 4K TV,799.99
+12,Apple iPad Pro,1099.99
+13,Fitbit Charge 5,179.99
+14,Bose SoundLink Speaker,129.99
+15,Amazon Echo Dot,49.99
+16,Sony PlayStation 5,499.99
+17,Microsoft Xbox Series X,499.99
+18,Dyson V11 Vacuum,599.99
+19,Keurig Coffee Maker,89.99
+20,Instant Pot,79.99
